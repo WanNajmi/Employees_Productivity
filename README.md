@@ -37,7 +37,7 @@ employees which had been collected manually and also been validated by the indus
 ## Data exploration:
 
 ## Variables in dataset:
-<img src = "https://github.com/WanNajmi/Employees_Productivity/blob/main/variable.png" width = "100%" >
+<img src = "https://github.com/WanNajmi/Employees_Productivity/blob/main/variables.PNG" width = "80%" >
 
 ## Target Productivity vs Actual Productivity:
 <img src = "https://github.com/WanNajmi/Employees_Productivity/blob/main/tar_vs_act.PNG" width = "80%" >
