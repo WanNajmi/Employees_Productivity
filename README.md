@@ -46,7 +46,7 @@ employees which had been collected manually and also been validated by the indus
 <img src = "https://github.com/WanNajmi/Employees_Productivity/blob/main/heatmap.png" width = "80%" >
 
 ## Training vs Validation Accuracy: 
-<img src = "https://github.com/WanNajmi/Heart_Disease_Classification/blob/main/output/accuracy.PNG" width = "40%" >
+<img src = "https://github.com/WanNajmi/Employees_Productivity/blob/main/accuracy.PNG" width = "40%" >
 
 ## Training vs Validation Loss: 
-<img src = "https://github.com/WanNajmi/Heart_Disease_Classification/blob/main/output/loss.PNG" width = "40%" >
+<img src = "https://github.com/WanNajmi/Employees_Productivity/blob/main/loss.PNG" width = "40%" >
